@@ -1,3 +1,6 @@
+> **Coursework context**  
+> This repository is a fork of a Columbia COMS W4115 assignment template and is retained as historical coursework. The assignment specification below was provided by course staff; repository contents may include student implementation work.
+
 # COMS W4115: Programming Assignment 1 (Lexical Analysis)
 
 ## Course Summary
